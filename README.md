@@ -1,6 +1,12 @@
 # ds-project-template
 
-Template for creating ds simple projects
+This is the readme for my firt project repository.
+
+The EDA.ipynb kernel contains my coding processes for cleaning the data, and to generate the graphical analysis.
+
+The data folder contains the original data set Housing_data.csv, and 4 modified sets exported during each data cleaning process.
+
+The Presentation.pdf file is, of course, the presentation of my findings during this project.
 
 ## Requirements
 
