@@ -1,6 +1,6 @@
-# ds-project-template
+# dc-first-project
 
-This is the readme for my firt project repository.
+This is the readme for my first project repository.
 
 The EDA.ipynb kernel contains my coding processes for cleaning the data, and to generate the graphical analysis.
 
